@@ -1,7 +1,9 @@
 # SUM-on_TCGLive_Expanded
 
-# I'm stopping updates on this repository, I don't have enough time anymore to search and store decklists, and I didn't find anyone to backup on me.
-## If you need more recent decklists, you can try to look at here:
+# Repository reboot soon!
+
+## If you need more decklists, you can always try to look at here:
+
 - [pokemoncard.io](https://pokemoncard.io/deck-search/?&_sft_category=expanded) (113 lists stored)
 - [Expanded ShowRoom](https://www.youtube.com/@expandedshowroom7547) (102 lists stored)
 - [じゅん](https://www.youtube.com/@jun_0712) (54 lists stored)
