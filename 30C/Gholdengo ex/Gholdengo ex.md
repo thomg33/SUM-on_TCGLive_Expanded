@@ -13,7 +13,7 @@ Description: Go first and get a Genesect ex and as many Gimmighoul as possible o
 ## List
 
 Pokémon: 9
-1 Lumineon V CRZ-GG 39
+* 1 Lumineon V CRZ-GG 39
 2 Gholdengo ex PRE 164
 2 Gholdengo ex PAR 252
 1 Dedenne-GX UNB 57
