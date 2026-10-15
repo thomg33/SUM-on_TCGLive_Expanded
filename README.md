@@ -1,8 +1,10 @@
 # SUM-on_TCGLive_Expanded
 
-# Repository reboot soon!
+# MY EXPANSION OF THE AMAZING SHUTTERST0CK’S WORK.
 
-## If you need more decklists, you can always try to look at here:
+# For now, mostly my own decklists from 30C on. In the future, I will try to add decks from other sources.
+
+## If you need more decklists, you can always try to look here:
 
 - [pokemoncard.io](https://pokemoncard.io/deck-search/?&_sft_category=expanded) (113 lists stored)
 - [Expanded ShowRoom](https://www.youtube.com/@expandedshowroom7547) (102 lists stored)
@@ -11,9 +13,6 @@
 - [MrDogPTCGL](https://www.youtube.com/@mrdogptcgl) (30 lists stored)
 - [10types](https://www.youtube.com/@10types) (12 lists stored)
 - [TrustYourPilot](https://www.youtube.com/c/TrustYourPilotTCG) (8 lists stored)
+- [Dowsing Machine](https://dowsingmachine.com) (0 lists stored)
 
 This repository aims to manually store public decklists of the SUM-on TCGLive Expanded format.
-
-Many Asian regions such as Taiwan, Singapore or China are only supported after SM, so this repository also works for Expanded format in these regions, called Wild Format. (Note that Wild Format has a different ban list and misses some cards prior to Tag Team area, so Wild decklists might be suboptimal. I won't share Wild decklists with banned cards on TCGLive.)
-
-Every help is appreciated. Contact me on Discord: shutterst0ck
