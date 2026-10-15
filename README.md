@@ -14,3 +14,5 @@
 - [Dowsing Machine](https://dowsingmachine.com) (0 lists stored)
 
 This repository aims to manually store public decklists of the SUM-on TCGLive Expanded format.
+
+NOTE: Decklists reflect card legality at time of creation. In 2025 and 2026, Flapple (Rebel Clash), Medicham V, and Scoop Up Net have been banned from the Expanded format.
