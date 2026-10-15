@@ -1,8 +1,6 @@
 # SUM-on_TCGLive_Expanded
 
-## MY EXPANSION OF THE AMAZING SHUTTERST0CK’S WORK.
-
-## For now, mostly my own decklists from 30C on. In the future, I will try to add decks from other sources.
+## My expansion on the amazing work done by Shutterst0ck. For now, mostly my own decklists from 30C on. In the future, I will try to add decks from other sources.
 
 ## If you need more decklists, you can always try to look here:
 
