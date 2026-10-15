@@ -15,4 +15,4 @@
 
 This repository aims to manually store public decklists of the SUM-on TCGLive Expanded format.
 
-NOTE: Decklists reflect card legality at time of creation. In 2025 and 2026, Flapple (Rebel Clash), Medicham V, and Scoop Up Net have been banned from the Expanded format.
+NOTE: Decklists reflect card legality at time of creation. In 2025 and 2026, Flapple (Rebel Clash), Medicham V, and Scoop Up Net were banned from the Expanded format. This is reflected in decks created after those bans.
