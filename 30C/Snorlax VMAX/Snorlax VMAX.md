@@ -9,6 +9,7 @@ Date: 17 Oct 2026
 Description: Two options: 
 1. Go first and get out Snorlax V and Terapagos ex. Evolve to Snorlax VMAX next turn. 
 2. Go second, draw out Salvatore and use it to evolve immediately.
+
 Either way, place Area Zero and throw as many Pokémon out as possible. Attach Ignition or Acceleration Energy and attack for huge damage.
 
 ![enter image description here](https://imglink.cc/cdn/dZnaUbg9BC.png)
